@@ -1,0 +1,6 @@
+framework module Pods_ThemovieDBwithMoya {
+  umbrella header "Pods-ThemovieDBwithMoya-umbrella.h"
+
+  export *
+  module * { export * }
+}

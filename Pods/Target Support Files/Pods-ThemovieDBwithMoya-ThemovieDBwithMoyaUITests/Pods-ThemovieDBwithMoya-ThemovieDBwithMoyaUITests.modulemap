@@ -1,0 +1,6 @@
+framework module Pods_ThemovieDBwithMoya_ThemovieDBwithMoyaUITests {
+  umbrella header "Pods-ThemovieDBwithMoya-ThemovieDBwithMoyaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
